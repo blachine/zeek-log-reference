@@ -1,1 +1,1 @@
-Zeek log reference used for graduate, undergraduate and professional military education courses at the Royal Military College of Canada.  Recent update includes additional log files plus summary and ToC on first page.
+Zeek log reference used for graduate, undergraduate and professional military education courses at the Royal Military College of Canada.  Updated for course material using zeek version 8.0.10.
